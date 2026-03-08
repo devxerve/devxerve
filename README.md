@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Javier and I'm a software development student, from Madrid, Spain</p>
+<p align="center">My name is Javier and I'm a software development student, from Madrid, Spain</p>
 
 ###
 
