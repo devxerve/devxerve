@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since 2005<br>📚 I'm currently working at @opi<br>🎯 Goals: Make something great<br>🏎️ Fun fact: I love Formula 1 (Fernando Alonso's fan)</p>
+<p align="center">✨ Creating bugs since 2005<br>📚 I'm currently working at [@opi](https://github.com/opi-hydration) <br>🎯 Goals: Make something great<br>🏎️ Fun fact: I love Formula 1 (Fernando Alonso's fan)</p>
 
 ###
 
