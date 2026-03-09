@@ -51,9 +51,14 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="debian logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="debian logo"  />
+  <img width="12" />
 </div>
 
 ###
