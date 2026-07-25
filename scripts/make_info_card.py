@@ -43,24 +43,26 @@ ACCENT = "#22d3ee"
 #    ("bul", text)          -> green dot + light bullet
 #    ("gap",)               -> a little vertical space
 # ===========================================================================
-HOST = "you"   # shown as  you@github  in the header
+HOST = "devxerve"   # shown as  devxerve@github  in the header
 
 ROWS = [
     ("host",),
-    ("kv", "Now", "Your current role @ Company"),
-    ("kv", "Prev", "Previous role @ Company"),
-    ("kv", "Also", "Another hat you wear"),
-    ("kv", "Edu", "Your degree, School 'YY"),
+    ("kv", "Now", "Junior developer intern for @Accenture"),
+    ("kv", "Prev", "Project manager for @opi-hydration"),
+    ("kv", "Also", "Caffeine addict, F1 enjoyer, Judoka"),
+    ("kv", "Edu", "Multiplatform App Development, UFV '2026"),
     ("gap",),
     ("sec", "Stack"),
-    ("kv", "Frontend", "React, Next.js, TypeScript"),
-    ("kv", "Backend", "Node, Postgres, GraphQL"),
-    ("kv", "AI / ML", "LangChain, OpenAI, ..."),
-    ("kv", "Cloud", "AWS, Docker, Vercel"),
+    ("kv", "Languages", "Python, Java, C, SQL, TypeScript"),
+    ("kv", "Data", "PostgreSQL, T-SQL, Apache PySpark"),
+    ("kv", "Cloud/DevOps", "AWS, Docker, cloudflared"),
+    ("kv", "OS", "Arch Linux, Debian, WSL"),
+    ("kv", "Tools", "GitHub, Jira, Linear, Obsidian, Markdown"),
     ("gap",),
     ("sec", "Highlights"),
-    ("bul", "A thing you're proud of"),
-    ("bul", "Another highlight worth bragging about"),
+    ("bul", "Self-hosted homelab (Docker, reverse proxy, monitoring)"),
+    ("bul", "OPI: Arduino + Android Hydration tracker solution"),
+    ("bul", "In the piscine @ 42 — aiming for the cursus"),
 ]
 
 
