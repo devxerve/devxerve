@@ -2,8 +2,12 @@ name: Update profile art
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # todos los días a las 06:00 UTC
-  workflow_dispatch: {}     # te permite lanzarlo a mano desde la pestaña Actions
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}
+
+concurrency:
+  group: profile-art
+  cancel-in-progress: false
 
 permissions:
   contents: write
