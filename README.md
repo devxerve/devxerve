@@ -14,7 +14,7 @@
 </tr>
 </table>
 
-## Javi · devxerve
+## Javi · XervE
 
 **Full-Stack Developer · Computer Engineering Student · Multiplatform App Development**
 
