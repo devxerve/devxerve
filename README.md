@@ -18,9 +18,9 @@
 
 **Full-Stack Developer · Computer Engineering Student · Multiplatform App Development**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yoursite.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://xerve.es!)
-[LinkedIn](https://img.shields.io/badge/LinkedIn-YOURHANDLE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javiercerverar)
-[![Instagram](https://img.shields.io/badge/Instagram-YOURHANDLE-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_javicr_)
+[![Portfolio](https://img.shields.io/badge/Portfolio-xerve.es-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://xerve.es)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-javiercerverar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javiercerverar)
+[![Instagram](https://img.shields.io/badge/Instagram-_javicr__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_javicr_)
 
 <br>
 
